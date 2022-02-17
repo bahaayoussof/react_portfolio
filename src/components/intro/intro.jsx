@@ -13,10 +13,8 @@ const Intro = () => {
 						</div>
 					</div>
 					<p className="i-desc">
-						I'm a javascript developer with a good understanding of object-oriented programming
-						principles. I have a solid foundation in web development, data structures, and
-						algorithms. I also have hands-on experience developing web applications using
-						javascript technologies.
+						javascript developer with a good understanding of object-oriented programming
+						principles.
 					</p>
 				</div>
 				<svg
