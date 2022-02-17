@@ -1,4 +1,10 @@
+import Intro from "./components/intro/intro";
+
 function App() {
-	return <div>Portfolio Setup!</div>;
+	return (
+		<div>
+			<Intro />
+		</div>
+	);
 }
 export default App;
